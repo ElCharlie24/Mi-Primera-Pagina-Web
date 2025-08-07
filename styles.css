@@ -19,7 +19,37 @@ h1{
 }
 
 .img_cuetzalan{
-    width: 300px;
+    width: 500px;
+    border-radius: 20px;
+    display: block;
+    margin-right: 50%;
+    margin: 50px 0 50px 0;
+}
+
+.parrafoYohualichan{
+    text-align: justify;
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+}
+
+.img_yohualichan{
+    width: 350px;
+    border-radius: 20px;
+    display: block;
+    margin-right: 50%;
+    margin: 50px 0 50px 0;
+}
+
+.parrafoBrisas{
+    text-align: justify;
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+}
+
+.img_brisas{
+    width: 400px;
     border-radius: 20px;
     display: block;
     margin-right: 50%;
